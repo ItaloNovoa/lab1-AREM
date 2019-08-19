@@ -4,14 +4,13 @@
 #
 ### Clases
 #
-#### Menu --> es la clase con la que actua el usuario a travez de un menu de opciones que permite:
-##### 1. ingresar nueva coleccion de datos
-##### 2. ingresar nuevo dato
-##### 3. ver los datos ingresados
-##### 4. ver la media de los datos ingresados
-##### 5. ver la desviacion estandar de los datos ingresados
-##### 6. eliminar un dato ingresado
-##### 7. salir
+#### Menu --> es la clase con la que actua el usuario. por defecto lee el archivo entrada.txt en el cual podra ingresar los valores al cual el programa le sacara la media y la desviacion estandar
+#
+##### Si desea que el programa lea otro archivo en otra ubicacion, modificarlo en la clase menu en la variable que se muestra a continuacion:
+![image](https://user-images.githubusercontent.com/42522754/63237434-93199e00-c207-11e9-908c-60670a9050b0.png)
+
+
+
 #
 #### likendList --> esta clase implementa la funcionalidad de una lista enlazada
 #
